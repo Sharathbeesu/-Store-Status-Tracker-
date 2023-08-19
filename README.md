@@ -1,4 +1,3 @@
-# -Store-Status-Tracker-
 # Store Monitoring and Reporting Web Application
 
 This Flask-based web application allows users to monitor and report the operational status of different stores. It calculates uptime and downtime over customizable time intervals, generates reports, and provides insights into store performance.
